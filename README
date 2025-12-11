@@ -1,0 +1,13 @@
+# Boids Simulation (Python)
+
+A simple implementation of Craig Reynolds' *Boids* model to simulate flocking behavior.
+
+## Features
+- Separation, alignment, and cohesion rules
+- Adjustable parameters for speed, vision radius, and repulsion
+- Simple 2D visualization
+- Demonstrates basic simulation loops and vector operations in Python
+
+## Run
+```bash
+python boids.pyThe code requires pygame and python3
